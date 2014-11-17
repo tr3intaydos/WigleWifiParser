@@ -1,0 +1,1 @@
+Parser for WigleWifi CSV data with JS (CSV Parser: http://stackoverflow.com/a/1293163/2343), and using Google Maps JavaScript API v3 for visualization.
